@@ -1,7 +1,7 @@
 # CatUserbot
 
 A simple Telegram userbot based on Telethon .
-[![catuserbot logo](https://telegra.ph/file/8f90b2dda2689a3151bdd.jpg)](https://t.me/catuserbot_support) 
+[![catuserbot logo](https://telegra.ph/file/4860c8e1a5a56d0616b79.png)](https://t.me/catuserbot_support) 
 
 ## Deployment
 > Click on buttons to expands! 
@@ -36,7 +36,7 @@ A simple Telegram userbot based on Telethon .
 > Those two vars are not Mandatory! You can leave them blank too but I would suggest to keep them. 
   
 <h4>Click the button below to deploy Catuserbot on Heroku!</h4> 
-<p><a href="https://heroku.com/deploy?template=https://github.com/deepaiims/katssssssssss"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>  
+<p><a href="https://heroku.com/deploy?template=https://github.com/deepaiims/katnew0000"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>  
   
 </details> 
 
